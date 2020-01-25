@@ -1,0 +1,7 @@
+md5: 472582191826993c1dfaedf4e7b9bf0c
+outs:
+- md5: c244b3824eccc530891b29af4c47e205
+  path: setup.sh
+  cache: true
+  metric: false
+  persist: false

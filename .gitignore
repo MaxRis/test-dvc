@@ -1,1 +1,7 @@
 /test
+/client_secrets.json
+/language_id.txt
+/prediction.py
+/setup.sh
+/appengine
+/README

@@ -1,0 +1,7 @@
+md5: 0e735c7a7664ea7dcb22bc3f33e9415a
+outs:
+- md5: d694237e87406411651db8be42b321ed
+  path: prediction.py
+  cache: true
+  metric: false
+  persist: false

@@ -2,3 +2,8 @@
 url = gdrive://0AIac4JZqHhKmUk9PVA/dvc-test
 gdrive_client_id = 710796635688-iivsgbgsb6uv1fap6635dhvuei09o66c.apps.googleusercontent.com
 gdrive_client_secret = a1Fz59uTpVNeG_VGuSKDLJXv
+
+['remote "gdrive2"']
+url = gdrive://0AIac4JZqHhKmUk9PVA/dvc-test2
+gdrive_client_id = 710796635688-iivsgbgsb6uv1fap6635dhvuei09o66c.apps.googleusercontent.com
+gdrive_client_secret = a1Fz59uTpVNeG_VGuSKDLJXv
